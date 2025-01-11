@@ -12,6 +12,24 @@ The **Exam Duty Allocation System** is a web-based application designed to effic
 - **JSP Forms**: Provides an interface for inputting faculty details and updating allocations.
 - **Database Integration**: Uses **MySQL** to store and retrieve faculty and room details.
 
+  ## Screenshots
+
+### Login Page
+![1](https://github.com/user-attachments/assets/9e3a450d-fe48-4087-a314-c4f3accfec3a)
+
+### Home Page
+![2](https://github.com/user-attachments/assets/abf39ee9-8c3c-4ca7-ad28-ba2080b274b5)
+
+### Faculty Availability
+![3](https://github.com/user-attachments/assets/25bce4e8-1ec2-405d-a933-9a5e0e456ce6)
+
+### Exam Duty Allocation
+![4](https://github.com/user-attachments/assets/af0155e5-b8c4-43ac-937f-ef25bb3837cd)
+
+### Notification Center
+![5](https://github.com/user-attachments/assets/65366373-a569-4666-9a80-9b1e1be42c60)
+
+
 ## Technologies Used
 
 - **Backend**: Java, Servlets, JSP
