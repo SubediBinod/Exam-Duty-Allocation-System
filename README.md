@@ -100,3 +100,45 @@ The system uses **Jakarta Mail** to send email notifications to faculty members.
            return new PasswordAuthentication(username, password);
        }
    });
+## Contributions
+
+We welcome contributions from the community! Whether it's a bug fix, new feature, or improvement, your help is appreciated. Here's how you can contribute:
+
+1. **Fork the Repository**  
+   Click on the "Fork" button at the top right of this repository to create a copy in your GitHub account.
+
+2. **Clone the Repository**  
+   Clone your forked repository to your local system:
+   ```bash
+   git clone https://github.com/SubediBinod/exam-duty-allocation-system.git
+   ```
+
+3. **Create a New Branch**  
+   Use a meaningful name for your branch to describe the feature or issue:
+   ```bash
+   git checkout -b feature-name
+   ```
+
+4. **Make Changes**  
+   Implement your changes and commit them:
+   ```bash
+   git add .
+   git commit -m "Brief description of your changes"
+   ```
+
+5. **Push Changes**  
+   Push your changes to your forked repository:
+   ```bash
+   git push origin feature-name
+   ```
+
+6. **Submit a Pull Request**  
+   Go to the original repository and submit a pull request explaining your changes.
+
+Contributions to improve functionality or enhance features are welcome. For major changes, please open an issue to discuss your ideas first.
+
+---
+
+### License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as per the terms of the license.
