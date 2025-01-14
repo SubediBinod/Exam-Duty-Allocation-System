@@ -22,8 +22,8 @@ public class NotificationServlet extends HttpServlet {
 
     private static final String SMTP_HOST = "smtp.gmail.com";
     private static final String SMTP_PORT = "587";
-    private static final String SMTP_USER = "moonowesun@gmail.com";
-    private static final String SMTP_PASS = "fqypcvomekgudqag";
+    private static final String SMTP_USER = "Paste Your Gmail Here";
+    private static final String SMTP_PASS = "Paste Your Secret Key Here";
 
     private static final String SELECT_FACULTY_QUERY = 
         "SELECT fa.room_number, fa.duration, fa.timing, fa.faculty_id, f.name, f.email " +
